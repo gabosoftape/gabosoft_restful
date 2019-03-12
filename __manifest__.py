@@ -2,7 +2,7 @@
     'name': 'RESTFUL API For Odoo',
     'version': '0.2.0',
     'category': 'API',
-    'author': 'Babatope Ajepe',
+    'author': 'Gabosoft',
     'website': 'https://ajepe.github.io/restful-api-for-odoo',
     'summary': 'RESTFUL API For Odoo',
     'support': 'ajepebabatope@gmail.com',
@@ -30,7 +30,7 @@ For detailed example of REST API refer https://ajepe.github.io/restful-api-for-o
     "external_dependencies": {
         "python": [
             'simplejson'
-        ], 
+        ],
         "bin": []
     },
 }
